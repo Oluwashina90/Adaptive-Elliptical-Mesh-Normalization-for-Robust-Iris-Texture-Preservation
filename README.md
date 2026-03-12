@@ -103,7 +103,7 @@ All results are saved as plots (PNG) and CSV files.
 
 ## Dataset
 
-The **MMU Iris Database** is used (available from [MMU iris dataset]([https://www.kaggle.com/datasets/naureenmohammad/mmu-iris-dataset]). It contains:
+The **MMU Iris Database** is used (available from @ https://www.kaggle.com/datasets/naureenmohammad/mmu-iris-dataset. It contains:
 - 100 subjects
 - Left and right eye images (5 per eye, 10 total per subject)
 - Image format: 320×240 pixels, BMP
