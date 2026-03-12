@@ -145,6 +145,8 @@ Install with:
 ```bash
 pip install opencv-python numpy scipy scikit-learn scikit-image matplotlib seaborn tqdm pandas
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_2RP6Nfa5w14ADLJ05V76FZ_0-9o-5M3?usp=sharing)
+
 
 Citation
 
