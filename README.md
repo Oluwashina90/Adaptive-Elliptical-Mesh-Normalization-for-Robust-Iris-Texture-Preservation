@@ -1,0 +1,2 @@
+# Adaptive-Elliptical-Mesh-Normalization-for-Robust-Iris-Texture-Preservation
+Implementation of Adaptive Elliptical Mesh Normalization (AEMN) for iris recognition, compared with Daugman, circular adaptive, and elliptic uniform methods. Complete evaluation pipeline on MMU dataset including identification, verification, cross-eye challenge, statistical analysis, and visualizations. Open-source research baseline.
