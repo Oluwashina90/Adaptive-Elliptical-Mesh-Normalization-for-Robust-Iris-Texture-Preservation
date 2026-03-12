@@ -146,6 +146,6 @@ Install with:
 pip install opencv-python numpy scipy scikit-learn scikit-image matplotlib seaborn tqdm pandas
 
 
-## Citation
+Citation
 
 Oyeniran, O. (2026). Iris Recognition with Adaptive Elliptical Mesh Normalization. GitHub repository: https://github.com/yourusername/IrisRecognition_AEMN
